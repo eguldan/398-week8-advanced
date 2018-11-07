@@ -1,5 +1,15 @@
 #!/usr/bin/env python3
 
+# new function to show Coveralls going down
+def randomFunction(arg):
+    val1 = 'Travis Scott'
+    val2 = 'Beach House'
+    val3 = 'The Weeknd'
+
+    if val1 == val2:
+        print('Cool beans')
+
+
 def calculate(arg):
     stack = []
 
